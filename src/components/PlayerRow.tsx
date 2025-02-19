@@ -102,6 +102,8 @@ const Container = styled.div({
   padding: "30px",
   border: "1px solid black",
   borderRadius: "8px",
+  height: "240px",
+  boxSizing: "border-box",
 });
 
 const RowContainer = styled.div({
